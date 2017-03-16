@@ -5,9 +5,9 @@
 \name{RDFBonesQuery-package}
 \alias{RDFBonesQuery-package}
 \alias{RDFBonesQuery}
-\title{Provide predefined queries of RDFBones SPARQL endpoint}
+\title{Provides predefined queries of RDFBones SPARQL endpoint}
 \description{
-Provide predefined queries of RDFBones SPARQL endpoint
+Provides predefined queries of RDFBones SPARQL endpoint
 }
 \details{
 \tabular{ll}{
