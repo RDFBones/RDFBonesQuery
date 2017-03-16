@@ -1,0 +1,12 @@
+Package: RDFBonesQuery
+Type: Package
+Title: Provides predefined queries of RDFBones SPARQL endpoint
+Version: 1.0
+Date: 2017-03-16
+Author: Stefan Schlager
+Maintainer: Stefan Schlager <zarquon42@gmail.com>
+Description: Provides predefined queries of RDFBones SPARQL endpoint
+License: GPL-2
+URL: https://github.com/RDFBones/RDFBonesQuery
+BugReports:  https://github.com/RDFBones/RDFBonesQuery/issues
+RoxygenNote: 6.0.1
