@@ -7,6 +7,11 @@ Author: Stefan Schlager
 Maintainer: Stefan Schlager <zarquon42@gmail.com>
 Description: Provides predefined queries of RDFBones SPARQL endpoint
 License: GPL-2
+Depends:
+    SPARQL,
+    XML,
+    RCurl,
+    bitops
 URL: https://github.com/RDFBones/RDFBonesQuery
 BugReports:  https://github.com/RDFBones/RDFBonesQuery/issues
 RoxygenNote: 6.0.1

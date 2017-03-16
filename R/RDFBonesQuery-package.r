@@ -31,7 +31,7 @@
 #' \url{http://www.freidok.uni-freiburg.de/volltexte/9181/}.
 #' @encoding utf8
 #' @keywords package
-#' @import SPARQL graphics grDevices methods stats utils
+#' @import SPARQL graphics grDevices methods stats utils XML RCurl bitops
 NULL
 
 
